@@ -7,3 +7,8 @@ Revoke a personal access token programmatically
 Tier: Free, Premium, Ultimate
 Offering: GitLab Self-Managed, GitLab Dedicated
 You can programmatically revoke a personal access token as part of your tests or automation.
+
+
+Change the navigation theme
+History 
+You can change the navigation theme of the GitLab UI. These colors are displayed on the left sidebar. Using individual navigation themes might help you differentiate between your different GitLab instances.
