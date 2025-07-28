@@ -4,3 +4,8 @@ GitLab runs a check every day at 1:00 AM UTC to identify personal access tokens 
 
 Alternatives to personal access tokens
 For Git over HTTPS, an alternative to personal access tokens is to use an OAuth credential helper.
+
+Profile preferences
+Tier: Free, Premium, Ultimate
+Offering: GitLab.com, GitLab Self-Managed, GitLab Dedicated
+You can update your preferences to change the look and feel of GitLab.
