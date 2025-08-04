@@ -6,3 +6,5 @@ Personal access tokens expire on the date you define, at midnight, 00:00 AM UTC.
 
 Behavior
 Use the Behavior section to customize the behavior of the system layout and default views. You can change your layout width and choose the default content for your homepage, group and project overview pages. You have options to customize appearance and function, like whitespace rendering, file display, and text automation.
+
+added feature c.
